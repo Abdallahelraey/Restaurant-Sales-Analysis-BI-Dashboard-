@@ -1,6 +1,7 @@
 
 # Restaurant Sales Dashboard
 
+![alt text](Analysis_1.png)
 ## Overview
 
 This Power BI dashboard provides comprehensive insights into restaurant sales data, allowing for easy tracking and analysis of key performance indicators (KPIs) across various dimensions such as time, menu items, and order patterns.
